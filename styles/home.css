@@ -1,0 +1,43 @@
+* {
+    font-family: Helvetica;
+    color: white;
+    overflow: hidden;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: black;
+}
+
+a {
+    text-decoration: none;
+
+}
+
+a:hover {
+    color:rgba(161, 0, 0, 0.968);
+
+}
+
+
+
+.Container {
+
+    border: solid white;
+    border-width: 5px;
+    border-radius: 20px;
+    height: 350px;
+    width: 300px;
+    margin: 70px 500px 200px;
+
+}
+
+.Container h1 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+ li {
+    margin-bottom: 10px;
+    padding-left: 20px;
+}
